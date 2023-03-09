@@ -21,3 +21,12 @@ Technologies:HTML , CSS , JavaScript
 
 ### JavaScript:
   .make this page dynamic to make user interact with it , like click buttons , login page , send an e-mails and see links in footer.
+
+
+# notes:
+CSS files contain :
+- master file ...> the main file 
+
+-all.main.css ....> file fonts return all things in page to defult
+
+-normailize ...> this like a global rules in css like [remove all text decoration in "a" tags]
